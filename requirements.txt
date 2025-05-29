@@ -1,0 +1,4 @@
+streamlit
+llama-index
+sentence-transformers
+torch     # wordt automatisch op de juiste versie gezet
